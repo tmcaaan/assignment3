@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN", sans-serif;
+  background-color: #f0f0f0;
+}
+
+ul{
+  list-style:none;
+}
+
+a{
+  text-decoration:none;
+  color: black;
+}
