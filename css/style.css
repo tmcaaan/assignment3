@@ -39,13 +39,14 @@
 }
 
 #newslist li {
+  flex: 1;
   padding: 10px 20px;
   line-height: 1.6;
   gap: 8px;
 }
 
 #newslist li + li {
-  padding: 0 30px;
+  padding: 10 20px;
   border-left: 1px solid #ccc;
 }
 
