@@ -46,7 +46,7 @@
 }
 
 #newslist li + li {
-  padding: 10 20px;
+  padding: 10px 20px;
   border-left: 1px solid #ccc;
 }
 
